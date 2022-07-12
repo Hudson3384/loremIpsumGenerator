@@ -1,0 +1,10 @@
+html {
+    font-size: 62,5%;
+}
+
+
+body {
+    font-family: 'Lexend Deca', sans-serif;
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+    color: white;
+}
