@@ -8,3 +8,14 @@ body {
     background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
     color: white;
 }
+
+@media (max-width: 425px) {
+    html {
+        font-size: 35%;
+    }
+}
+
+@media (max-width: 768px) {
+    html {
+        font-size: 50%;
+    }}

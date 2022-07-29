@@ -1,5 +1,4 @@
 .Home {
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,4 +8,39 @@
 .Home h1 {
     font-size: 2.3rem;
     line-height: 4.6rem;
+}
+
+main {
+    background-color: #fcfcfc;
+    color: #1e1e1f;
+    width: 80%;
+    margin: 20px 0;
+    padding: 10px 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+main > p{
+    line-height: 1.1rem;
+    margin-bottom: 1.1rem;
+}
+
+#Button {
+    width: 5rem;
+    height: 2rem;
+    border-radius: 10px;
+    margin-left: 15px;
+    border: none;
+    background-color: #c72480;
+    color: #fcfcfc;
+    transition: 0.3s;
+}
+
+#Button:hover {
+    background-color:#bf066f;
+}
+
+
+.loremGenerate {
+    font-size: 14rem;
 }
