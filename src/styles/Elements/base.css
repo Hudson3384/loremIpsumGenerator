@@ -9,13 +9,3 @@ body {
     color: white;
 }
 
-@media (max-width: 425px) {
-    html {
-        font-size: 35%;
-    }
-}
-
-@media (max-width: 768px) {
-    html {
-        font-size: 50%;
-    }}
